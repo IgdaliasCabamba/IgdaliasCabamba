@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IgdaliasCabamba
 - 👀 I’m interested in AI and Machine learning
-- 🌱 I’m currently learning rust;
+- 🌱 I’m currently learning rust
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me igdaliascabamba@gmail.com
 
